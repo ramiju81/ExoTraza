@@ -1,6 +1,6 @@
 # 🧭 ExoTraza
 
-![Estado](https://img.shields.io/badge/Estado-Versi%C3%B3n_0.1.0_funcional-228B22)
+![Estado](https://img.shields.io/badge/Estado-En_pruebas_piloto-7C3AED)
 ![Plataformas](https://img.shields.io/badge/Plataformas-Web-2563EB)
 ![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
 ![Actualización](https://img.shields.io/badge/Actualizado-06_Oct_2026-lightgrey)
